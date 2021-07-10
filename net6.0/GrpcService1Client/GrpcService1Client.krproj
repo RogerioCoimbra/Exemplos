@@ -1,0 +1,19 @@
+{
+  "id": "13638221-2a47-4d19-b49e-fe9b5c20257e",
+  "importStreams": [
+    {
+      "id": "02f63127-254d-4b53-8592-e6593d67ada9",
+      "name": "gRcpService1",
+      "importerName": "ProtoFile",
+      "createMissingOperations": true,
+      "options": {
+        "files": [
+          "../GrpcService1/GrpcService1/Protos"
+        ],
+        "importPaths": []
+      }
+    }
+  ],
+  "authConfigs": [],
+  "certificates": []
+}
